@@ -1,4 +1,7 @@
-<h3 align="center">I'm a tech-savvy professional skilled in building websites and applications, working with APIs, and developing cutting-edge IoT projects. I create AI/ML models, penetrate networks, and assess and analyze threats and vulnerabilities. Whether it's crafting smart solutions or fortifying cybersecurity defenses, I've got it covered.</h3>
+<h3 align="center">
+I'm a tech-savvy professional skilled in building websites and applications, working with APIs, and developing cutting-edge IoT projects.
+I create AI/ML models, penetrate networks, and assess and analyze threats and vulnerabilities. 
+Whether it's crafting smart solutions or fortifying cybersecurity defenses, I've got it covered.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpandharkar&label=Profile%20views&color=0e75b6&style=flat" alt="rahulpandharkar" /> </p>
 
