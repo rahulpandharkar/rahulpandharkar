@@ -11,13 +11,13 @@ Whether it's crafting smart solutions or fortifying cybersecurity defenses, I've
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://rahulpandharkar.github.io](https://rahulpandharkar.github.io)
+- 👨‍💻 All of my projects are available at [here](https://rahulpandharkar.github.io)
 
 - 💬 Ask me about **Cybersecurity, Web Development, App Development, Working with APIs, IoT, AI/ML**
 
 - 📫 How to reach me **rahulpandharkar@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3fDtyJlIgFqtdVOv7Bnx4qZ9WKv46dk/view?usp=sharing](https://drive.google.com/file/d/1Z3fDtyJlIgFqtdVOv7Bnx4qZ9WKv46dk/view?usp=sharing)
+- 📄 Know about my experiences [by reading my resume](https://drive.google.com/file/d/1Z3fDtyJlIgFqtdVOv7Bnx4qZ9WKv46dk/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm the best**
 
