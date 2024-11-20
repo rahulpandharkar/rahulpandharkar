@@ -15,7 +15,7 @@ I'm a tech-savvy professional skilled in building websites and applications, wor
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulpandharkar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Inspirations for Productivity :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
